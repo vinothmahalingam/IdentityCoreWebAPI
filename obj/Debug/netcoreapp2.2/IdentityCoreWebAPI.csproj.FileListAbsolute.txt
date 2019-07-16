@@ -1,0 +1,14 @@
+D:\Angular\IdentityCoreWebAPI\bin\Debug\netcoreapp2.2\IdentityCoreWebAPI.deps.json
+D:\Angular\IdentityCoreWebAPI\bin\Debug\netcoreapp2.2\IdentityCoreWebAPI.runtimeconfig.json
+D:\Angular\IdentityCoreWebAPI\bin\Debug\netcoreapp2.2\IdentityCoreWebAPI.runtimeconfig.dev.json
+D:\Angular\IdentityCoreWebAPI\bin\Debug\netcoreapp2.2\IdentityCoreWebAPI.dll
+D:\Angular\IdentityCoreWebAPI\bin\Debug\netcoreapp2.2\IdentityCoreWebAPI.pdb
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.csprojAssemblyReference.cache
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.csproj.CoreCompileInputs.cache
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.RazorAssemblyInfo.cache
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.RazorAssemblyInfo.cs
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.AssemblyInfoInputs.cache
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.AssemblyInfo.cs
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.RazorTargetAssemblyInfo.cache
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.dll
+D:\Angular\IdentityCoreWebAPI\obj\Debug\netcoreapp2.2\IdentityCoreWebAPI.pdb
