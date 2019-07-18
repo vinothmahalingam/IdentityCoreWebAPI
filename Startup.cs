@@ -1,4 +1,4 @@
-﻿using System.Reflection;
+using System.Reflection;
 using System.Net.WebSockets;
 using Microsoft.VisualBasic.CompilerServices;
 using System;
@@ -35,6 +35,9 @@ namespace IdentityCoreWebAPI
           options.UseSqlServer(Configuration.GetConnectionString("IdentityConnection")));
           services.AddDefaultIdentity<ApplicationUser>()
           .AddEntityFrameworkStores<AuthenticationContext>();
+
+            services.AddDbContext<AuthenticationDbContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("AuthenticationDbContext")));
         }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
